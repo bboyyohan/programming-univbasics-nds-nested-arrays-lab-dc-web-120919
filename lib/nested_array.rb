@@ -51,6 +51,7 @@ def array_literal_matrix
   "Mario Incandenza",
   "Michael Pemulis"
 ]]
+ennet_plus_enfield.sort
 alphabetically_ordered = ennet_plus_enfield.sort 
 alphabetically_ordered
 end
